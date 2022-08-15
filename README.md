@@ -1,2 +1,5 @@
 # microservice-base-app
-base project for microservice
+project to demonstrate configuration via spring-cloud-config-server
+
+
+
